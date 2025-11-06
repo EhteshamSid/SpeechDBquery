@@ -1,1 +1,1 @@
-We implemented the database interface in three languages: English, Hindi and Gujarati. As of now the model is able to execute limited SQL commands via speech, but with further enhancement as per specific use-cases, the model can be deployed completely.
+Implemented the database interface in three languages: English, Hindi and Gujarati. As of now the model is able to execute limited SQL commands via speech, but with further enhancement as per specific use-cases, the model can be deployed completely.
